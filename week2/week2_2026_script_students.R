@@ -10,7 +10,7 @@ getwd()
 #this is how you set your working directory on a Mac,
 #you need to adjust it to the location of the txt or csv file on YOUR computer!
 #This basically tells R where to find the data:
-setwd("/Users/ja_nnik/2026_SoSe/Statistics_Tut/02_SimpleTests")
+setwd("/Users/carlo/Desktop/01_Projects/02_Statistics Tutorial SoSe 2025/data")
 
 #with a Windows computer it looks slightly different:
 #remember when you copy the path from Windows you have to change the /
