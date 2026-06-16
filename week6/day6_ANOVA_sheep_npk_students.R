@@ -229,7 +229,7 @@ summary(model3)
 #      A)  The degrees of freedom for residuals are lower when block is 
 #          not included
 #      B)  The block effect is absorbed into residuals when block is not 
-#          included, inflating unexplained variance  # correct
+#          included, inflating unexplained variance
 #      C)  The F-values for N, P, K are higher when block is not included
 #      D)  Nothing changes — block has no effect here
 #
